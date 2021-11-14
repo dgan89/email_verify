@@ -1,0 +1,18 @@
+{
+  "name": "razmik/email_verify",
+  "description": "Checking email for correctness and mx record",
+  "autoload": {
+    "psr-4": {
+      "Razmik\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Ilia Rozinsky",
+      "email": "ilyha_roza@mail.ru"
+    }
+  ],
+  "require": {
+    "php": ">=7.4"
+  }
+}
